@@ -1,1 +1,1 @@
-print system information
+Displays the operating system name
